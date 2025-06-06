@@ -71,12 +71,4 @@
   <img src="https://ghchart.rshah.org/0E75B6/mpcooray" alt="2025 GitHub chart" />
 </p>
 
-> 💡 This chart updates dynamically and gives a heatmap view of your **2025 contribution activity**.
 
----
-
-Would you like me to:
-- Host a custom contribution dashboard for you (on Vercel or GitHub Pages)?
-- Create a more advanced graph using Chart.js or React?
-
-Let me know and I’ll build it with you!
