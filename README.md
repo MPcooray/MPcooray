@@ -12,7 +12,7 @@
 </p>
 
 - 🌱 I’m currently learning **Computer Science and EEE**
-- 👨‍💻 All of my projects are available at: [Portfolio](https://portfolio-sbi5.vercel.app/)
+- 👨‍💻 All of my projects are available at: [Portfolio](https://www.manulacooray.com/)
 - 💬 Ask me about **anything tech-related**
 - 📫 Reach me at **manulacooray@gmail.com**
 - ⚡ Fun fact: **I'm a former National Swimmer**
